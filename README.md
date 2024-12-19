@@ -77,8 +77,8 @@
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnob100&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top Languages" style="border-radius: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=arnob100&show_icons=true&locale=en&theme=gruvbox" alt="GitHub Stats" style="border-radius: 10px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnob100&theme=gruvbox" alt="GitHub St```markdown
+  <img src="https://github-readme-stats.vercel.app/api?username=arnob1451&show_icons=true&locale=en&theme=gruvbox" alt="GitHub Stats" style="border-radius: 10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnob1451&theme=gruvbox" alt="GitHub St```markdown
 reak" alt="GitHub Streak Stats" style="border-radius: 10px;"/>
 </p>
 

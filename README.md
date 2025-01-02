@@ -15,8 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=arnob100&label=Profile%20Views&color=40A9E9&style=flat-square" alt="Profile Views" />
 </p>
 
-
-
+---
 
 ### 👨‍💻 About Me
 - 🔭 Currently working on my [personal project](https://github.com/arnob100/CustomizePhoneCase)
@@ -30,17 +29,23 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <p><strong>LeetCode</strong></p>
+      <td align="center" width="200">
         <a href="https://leetcode.com/arnob69" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Profile" height="80" width="90" style="border-radius: 20px;"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="100" width="100" />
         </a>
+        <p><strong>LeetCode</strong></p>
       </td>
-      <td align="center">
-        <p><strong>GeeksforGeeks</strong></p>
+      <td align="center" width="200">
         <a href="https://auth.geeksforgeeks.org/user/ararno47m4" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks Profile"height="80" width="60" style="border-radius: 20px;"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="100" width="100" />
         </a>
+        <p><strong>GeeksforGeeks</strong></p>
+      </td>
+      <td align="center" width="200">
+        <a href="https://www.codechef.com/users/arnob1451" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" alt="CodeChef" height="100" width="100" />
+        </a>
+        <p><strong>CodeChef</strong></p>
       </td>
     </tr>
   </table>
@@ -50,36 +55,25 @@
 
 ### 🛠 Languages & Tools
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="C++" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="TypeScript" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="Next.js" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="PostgreSQL" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="MongoDB" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="60" alt="Prisma" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="60" alt="Jest" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="60" alt="Appwrite" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="Linux" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="Tailwind CSS" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="Firebase" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="Docker" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="IntelliJ" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="VS Code" style="margin: 0 15px; padding: 10px; border-radius: 10px; background: #f7f7f7;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="C++" style="margin: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="TypeScript" style="margin: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="Next.js" style="margin: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" style="margin: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React" style="margin: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="MongoDB" style="margin: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" style="margin: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="Tailwind CSS" style="margin: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" style="margin: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="Docker" style="margin: 15px;" />
 </p>
 
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnob100&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top Languages" style="border-radius: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=arnob1451&show_icons=true&locale=en&theme=gruvbox" alt="GitHub Stats" style="border-radius: 10px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnob1451&theme=gruvbox" alt="GitHub St```markdown
-reak" alt="GitHub Streak Stats" style="border-radius: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnob100&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="margin: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arnob1451&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="margin: 20px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnob1451&theme=radical" alt="GitHub Streak Stats" style="margin: 20px;" />
 </p>
 
 ---

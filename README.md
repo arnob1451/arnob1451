@@ -15,8 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=arnob100&label=Profile%20Views&color=40A9E9&style=flat-square" alt="Profile Views" />
 </p>
 
-
-
+---
 
 ### 👨‍💻 About Me
 - 🔭 Currently working on my [personal project](https://github.com/arnob100/CustomizePhoneCase)
@@ -78,16 +77,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnob100&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top Languages" style="border-radius: 10px;"/>
   <img src="https://github-readme-stats.vercel.app/api?username=arnob1451&show_icons=true&locale=en&theme=gruvbox" alt="GitHub Stats" style="border-radius: 10px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnob1451&theme=gruvbox" alt="GitHub St
-markdown
-reak" alt="GitHub Streak Stats" style="border-radius: 10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnob1451&theme=gruvbox" alt="GitHub Streak Stats" style="border-radius: 10px;"/>
 </p>
 
 ---
-
-### 🔗 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/arnobbokshi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/arnobbokshi" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://arnobbokshi.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
-</p>

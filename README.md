@@ -2,8 +2,9 @@
 
 <!-- Animated Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=F78C6C&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Passionate+Problem+Solver;Programmer+%26+Learner;Dreamer+and+Achiever" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=87CEEB&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Passionate+Problem+Solver;Programmer+%26+Learner;Dreamer+and+Achiever" alt="Typing Animation" />
 </p>
+
 
 <!-- Decorative Banner -->
 <p align="center">
@@ -16,7 +17,7 @@
 > *"Always in Beta – Evolving, Learning, and Building."*
 
 - 🚀 Working on my [personal project](https://github.com/arnob100/CustomizePhoneCase)  
-- 🌱 Exploring **Next.js, PostgreSQL, backend tools and problem solving**  
+- 🌱 Exploring **Next.js, backend tools and problem solving**  
 - 💬 Feel free to ask me anything about my journey in coding and tech!  
 - ⚡ Fun fact: **I believe in fun & creativity over complexity.**
 
@@ -30,14 +31,14 @@
         <strong>💻 LeetCode</strong>
         <br />
         <a href="https://leetcode.com/arnob69" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="80" alt="LeetCode" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="90" alt="LeetCode" />
         </a>
       </td>
       <td align="center">
         <strong>🧠 GeeksforGeeks</strong>
         <br />
         <a href="https://auth.geeksforgeeks.org/user/ararno47m4" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="80" alt="GeeksforGeeks" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="70" alt="GeeksforGeeks" />
         </a>
       </td>
     </tr>
@@ -54,7 +55,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="PostgreSQL" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React.js" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="60" alt="Tailwind CSS" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="60" alt="Appwrite" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="60" alt="Prisma" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="Docker" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" style="margin: 10px;" />

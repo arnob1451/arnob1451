@@ -66,7 +66,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnob100&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" style="border-radius: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnob1451&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" style="border-radius: 10px;"/>
   <img src="https://github-readme-stats.vercel.app/api?username=arnob1451&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" style="border-radius: 10px;"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnob1451&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="border-radius: 10px;"/>
 </p>
@@ -76,7 +76,7 @@
 ### 🎯 My Focus Area
 - **Frontend**: Crafting elegant user interfaces with React, Next.js, and Tailwind CSS  
 - **Backend**: Building scalable systems using Next.js, PostgreSQL, Supabase, Prisma
-- **Problem solving using Data structure and algo, in a fun way not like a moody competitive programmer 🤣
+- **Problem solving in a fun way not like a moody competitive programmer 🤣
 - **Tools & Deployment**: Dockerized setup or vercel deployment
 
 ---

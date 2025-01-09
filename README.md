@@ -1,95 +1,97 @@
-<h1 align="center">✨ Hello, I'm Arnob Bokshi ✨</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Arnob+Bokshi....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-<!-- Animated Typing SVG -->
+<h5 align="center">
+  <code><a href="https://www.geeksforgeeks.org/user/ararno47m4/" title="GeeksforGeeks Profile"><img width="22" src="images/gfg.svg"> GeeksforGeeks</a></code>
+  <code><a href="https://leetcode.com/arnob69/" title="LeetCode Profile"><img width="22" src="images/leetcode.svg"> LeetCode</a></code>
+</h5>
+<br>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=87CEEB&center=true&vCenter=true&width=800&lines=software+Developer;Passionate+Problem+Solver;Programmer+%26+Learner;Dreamer+and+Achiever" alt="Typing Animation" />
+  Hi, I'm <b>Arnob Bokshi</b>! 
+  <br><br>
+  💻 I love writing code and exploring new technologies.  
+  📚 I’m currently diving deeper into  <b>Backend tools & technology</b>.  
+  💬 Ask me about <b>DSA, Frontend Development (Next.js/React), OOP, DBMS</b>.  
+  📫 Reach me via email: <a href="mailto:arnob1415@gmail.com">arnob1415@gmail.com</a>.  
 </p>
 
+<hr>
 
-<!-- Decorative Banner -->
+<h2 align="center">🔥 Languages, Frameworks & Tools 🔥</h2>
+<br>
 <p align="center">
-  <img src="https://media.istockphoto.com/id/1290455818/vector/programming-coding-neural-network-and-artificial-intelligence-or-ai-software-develop.jpg?s=612x612&w=0&k=20&c=eVVUTVPG0d4KusaADehFdSquOfBkd0-3TuIgmPssJQw=" alt="Programming" width="80%" style="border-radius: 15px;"/>
+  <code><img title="C++" height="25" src="images/cpp.svg"></code>
+  <code><img title="Next.js" height="25" src="images/nextjs.svg"></code>
+  <code><img title="TypeScript" height="25" src="images/typescript.svg"></code>
+  <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="images/problem-solving.png"></code
+  <code><img title="React" height="25" src="images/react.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+  <code><img title="Prisma" height="25" src="images/prisma.svg"></code>
+    <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS3" height="25" src="images/css.svg"></code>
+  <code><img title="Tailwind CSS" height="25" src="images/tailwindcss.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="Git" height="25" src="images/git.svg"></code>
+  <code><img title="NeonDB" height="25" src="images/neondb.svg"></code>
+  <code><img title="Java" height="25" src="images/java.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="NPM" height="25" src="images/npm.svg"></code>
 </p>
 
----
+<hr>
 
-### 🌟 About Me
-> *"Always in Beta – Evolving, Learning, and Building."*
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align="center">
+  <div align="center">
+    <a href="https://github.com/arnob1451" title="GitHub Streak">
+      <img align="left" width="390" src="https://streak-stats.demolab.com/?user=arnob1451&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak" />
+    </a>
+    <a href="https://github.com/arnob1451" title="GitHub Stats">
+      <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=arnob1451&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align="center">
+    <a href="https://github.com/arnob1451" title="Most Used Languages">
+      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnob1451&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnob1451&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
+</p>
 
-- 🚀 Working on my [personal project](https://github.com/arnob100/CustomizePhoneCase)  
-- 🌱 Exploring **Next.js, backend tools and problem solving**  
-- 💬 Feel free to ask me anything about my journey in coding and tech!  
-- ⚡ Fun fact: **I believe in fun & creativity over complexity.**
+<hr>
 
----
-
-### 📚 Favorite Coding Platforms (part-time fun)
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <strong>💻 LeetCode</strong>
-        <br />
-        <a href="https://leetcode.com/arnob69" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="90" alt="LeetCode" />
-        </a>
-      </td>
-      <td align="center">
-        <strong>🧠 GeeksforGeeks</strong>
-        <br />
-        <a href="https://auth.geeksforgeeks.org/user/ararno47m4" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="70" alt="GeeksforGeeks" />
-        </a>
-      </td>
-    </tr>
-  </table>
+<h2 align="center">👨‍💻 Featured Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/arnob1451/Data-Structure-and-algo-basic" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=arnob1451&repo=Data-Structure-and-algo-basic&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/arnob1451/AI-driven-financial-platform" title="AI-Driven Financial Platform"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=arnob1451&repo=AI-driven-financial-platform&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/arnob1451/Multiple-disease-prediction" title="Multiple Disease Prediction"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=arnob1451&repo=Multiple-disease-prediction&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/arnob1451/Learning-JavaScript" title="JS App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=arnob1451&repo=Learning-JavaScript&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
 
----
+<h4 align="center">
+  <a href="https://github.com/arnob1451?tab=repositories" title="Show More Repositories">🔎 Show More 🔍</a>
+</h4>
 
-### 🛠 Tech Stack
+<hr>
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="C++" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="Next.js" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="TypeScript" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="PostgreSQL" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React.js" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="60" alt="Tailwind CSS" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="60" alt="Prisma" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="Docker" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="Linux" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="60" alt="vercel" style="margin: 10px;" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnob1451&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" style="border-radius: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=arnob1451&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" style="border-radius: 10px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnob1451&theme=gruvbox" alt="GitHub St
-markdown
-reak" alt="GitHub Streak Stats" style="border-radius: 10px;"/>
-
-</p>
-
----
-
-### 🎯 My Focus Area
-- **Frontend**: Crafting elegant user interfaces with React, Next.js, and Tailwind CSS  
-- **Backend**: Building scalable systems using Next.js, PostgreSQL, Supabase, Prisma
-- **Problem solving in a fun way not like a moody competitive programmer 🤣
-- **Tools & Deployment**: Dockerized setup or vercel deployment
-
----
-
-### 📬 Let’s Connect!
-
-  <a href="https://github.com/arnob100" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="ararnob1415@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <b>Code Cycle</b><br><br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
 </p>

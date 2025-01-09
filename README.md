@@ -3,13 +3,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Arnob+Bokshi....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+<br>
 
 <h5 align="center">
   <code><a href="https://www.geeksforgeeks.org/user/ararno47m4/" title="GeeksforGeeks Profile"><img width="22" src="images/gfg.svg"> GeeksforGeeks</a></code>
   <code><a href="https://leetcode.com/arnob69/" title="LeetCode Profile"><img width="22" src="images/leetcode.svg"> LeetCode</a></code>
 </h5>
-<br>
-
 <p align="center">
   Hi, I'm <b>Arnob Bokshi</b>! 
   <br><br>

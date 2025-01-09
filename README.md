@@ -1,8 +1,6 @@
 <h1 align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?color=F7A1A1&lines=Hello,+World!+👋;I'm+Arnob+Bokshi;Welcome+to+My+GitHub+Profile!&center=true&size=30&width=700&height=45"> </a> </h1> <p align="center"> <img src="https://user-images.githubusercontent.com/77451683/245764323-11ab5b09-2b4e-46e6-93f2-9e8cd5209b18.gif" alt="Banner" width="80%" /> </p>
 <p align="center"> <b>Hi there! 👨‍💻</b><br> I am <b>Arnob Bokshi</b>, a passionate developer and tech enthusiast. I love <b>coding</b>, solving <b>challenging problems</b>, and exploring new technologies.<br><br> 💻 Currently focusing on <b>Backend Development and DSA</b><br> 🧑‍🏫 Ask me about <b>DSA, Frontend Development (Next.js/React), OOP, and DBMS</b><br> ✉️ Contact me: <a href="mailto:arnob1415@gmail.com">arnob1415@gmail.com</a><br> </p>
-
 <h2 align="center" style="font-family: 'Arial', sans-serif; color: #333; font-size: 36px; margin-bottom: 30px;">🔗 Coding Profiles</h2>
-
 <p align="center">
     <!-- LeetCode Button -->
     <a href="https://leetcode.com/arnob69/" title="LeetCode" 

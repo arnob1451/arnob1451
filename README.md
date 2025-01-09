@@ -7,18 +7,16 @@
        style="text-decoration: none; display: inline-flex; align-items: center; justify-content: center; padding: 12px 30px; margin: 10px; 
        background-color: #f4f4f4; border: 2px solid #ddd; border-radius: 40px; color: #333; font-size: 18px; font-weight: bold; 
        transition: all 0.3s ease; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30px" 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="50px" 
              style="margin-right: 12px; transition: transform 0.3s ease;">
-        LeetCode
     </a>
     <!-- GeeksforGeeks Button -->
     <a href="https://www.geeksforgeeks.org/user/ararno47m4/" title="GeeksforGeeks" 
        style="text-decoration: none; display: inline-flex; align-items: center; justify-content: center; padding: 12px 30px; margin: 10px;
        background-color: #f4f4f4; border: 2px solid #ddd; border-radius: 40px; color: #333; font-size: 18px; font-weight: bold; 
        transition: all 0.3s ease; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="30px" 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="50px" 
              style="margin-right: 12px; transition: transform 0.3s ease;">
-        GeeksforGeeks
     </a>
 </p>
 

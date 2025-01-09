@@ -2,7 +2,7 @@
 
 <!-- Animated Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=87CEEB&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Passionate+Problem+Solver;Programmer+%26+Learner;Dreamer+and+Achiever" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=87CEEB&center=true&vCenter=true&width=800&lines=software+Developer;Passionate+Problem+Solver;Programmer+%26+Learner;Dreamer+and+Achiever" alt="Typing Animation" />
 </p>
 
 

@@ -1,10 +1,10 @@
 <h1 align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?color=F7A1A1&lines=Hello,+World!+👋;I'm+Arnob+Bokshi;Welcome+to+My+GitHub+Profile!&center=true&size=30&width=700&height=45"> </a> </h1> <p align="center"> <img src="https://user-images.githubusercontent.com/77451683/245764323-11ab5b09-2b4e-46e6-93f2-9e8cd5209b18.gif" alt="Banner" width="80%" /> </p>
 <p align="center"> <b>Hi there! 👨‍💻</b><br> I am <b>Arnob Bokshi</b>, a passionate developer and tech enthusiast. I love <b>coding</b>, solving <b>challenging problems</b>, and exploring new technologies.<br><br> 💻 Currently focusing on <b>Backend Development and DSA</b><br> 🧑‍🏫 Ask me about <b>DSA, Frontend Development (Next.js/React), OOP, and DBMS</b><br> ✉️ Contact me: <a href="mailto:arnob1415@gmail.com">arnob1415@gmail.com</a><br> </p>
 <h2 align="center" style="font-family: 'Arial', sans-serif; color: #333; font-size: 36px; margin-bottom: 30px;">🔗 Coding Profiles</h2>
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
     <!-- LeetCode Button -->
     <a href="https://leetcode.com/arnob69/" title="LeetCode" 
-       style="text-decoration: none; display: inline-flex; align-items: center; justify-content: center; padding: 12px 30px; margin: 10px; 
+       style="text-decoration: none; display: flex; align-items: center; justify-content: center; padding: 12px 30px; 
        background-color: #f4f4f4; border: 2px solid #ddd; border-radius: 40px; color: #333; font-size: 18px; font-weight: bold; 
        transition: all 0.3s ease; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="50px" 
@@ -12,7 +12,7 @@
     </a>
     <!-- GeeksforGeeks Button -->
     <a href="https://www.geeksforgeeks.org/user/ararno47m4/" title="GeeksforGeeks" 
-       style="text-decoration: none; display: inline-flex; align-items: center; justify-content: center; padding: 12px 30px; margin: 10px;
+       style="text-decoration: none; display: flex; align-items: center; justify-content: center; padding: 12px 30px; 
        background-color: #f4f4f4; border: 2px solid #ddd; border-radius: 40px; color: #333; font-size: 18px; font-weight: bold; 
        transition: all 0.3s ease; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="50px" 

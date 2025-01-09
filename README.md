@@ -1,17 +1,29 @@
 <h1 align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?color=F7A1A1&lines=Hello,+World!+👋;I'm+Arnob+Bokshi;Welcome+to+My+GitHub+Profile!&center=true&size=30&width=700&height=45"> </a> </h1> <p align="center"> <img src="https://user-images.githubusercontent.com/77451683/245764323-11ab5b09-2b4e-46e6-93f2-9e8cd5209b18.gif" alt="Banner" width="80%" /> </p>
 <p align="center"> <b>Hi there! 👨‍💻</b><br> I am <b>Arnob Bokshi</b>, a passionate developer and tech enthusiast. I love <b>coding</b>, solving <b>challenging problems</b>, and exploring new technologies.<br><br> 💻 Currently focusing on <b>Backend Development and DSA</b><br> 🧑‍🏫 Ask me about <b>DSA, Frontend Development (Next.js/React), OOP, and DBMS</b><br> ✉️ Contact me: <a href="mailto:arnob1415@gmail.com">arnob1415@gmail.com</a><br> </p>
 
-<h2 align="center" style="font-family: 'Arial', sans-serif; color: #333; margin-bottom: 20px;">🔗 Coding Profiles</h2>
-<p align="center" style="font-family: 'Arial', sans-serif; font-size: 18px; color: #555;">
-    <a href="https://leetcode.com/arnob69/" title="LeetCode" style="text-decoration: none; margin: 0 20px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="50px" style="vertical-align: middle; margin-right: 10px;">
-        <b>LeetCode</b>
+<h2 align="center" style="font-family: 'Roboto', sans-serif; color: #333; margin-bottom: 30px; font-size: 32px;">🔗 Coding Profiles</h2>
+
+<p align="center" style="font-family: 'Roboto', sans-serif; font-size: 20px; color: #555;">
+    <a href="https://leetcode.com/arnob69/" title="LeetCode" style="text-decoration: none; margin: 0 25px; padding: 10px 20px; border-radius: 50px; background-color: #f8f9fa; display: inline-flex; align-items: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: all 0.3s ease;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40px" style="margin-right: 12px;">
+        <b style="color: #333;">LeetCode</b>
     </a> 
-    <a href="https://www.geeksforgeeks.org/user/ararno47m4/" title="GeeksforGeeks" style="text-decoration: none; margin: 0 20px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="50px" style="vertical-align: middle; margin-right: 10px;">
-        <b>GeeksforGeeks</b>
+    <a href="https://www.geeksforgeeks.org/user/ararno47m4/" title="GeeksforGeeks" style="text-decoration: none; margin: 0 25px; padding: 10px 20px; border-radius: 50px; background-color: #f8f9fa; display: inline-flex; align-items: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: all 0.3s ease;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40px" style="margin-right: 12px;">
+        <b style="color: #333;">GeeksforGeeks</b>
     </a>
 </p>
+
+<!-- Add hover effect -->
+<style>
+    a:hover {
+        background-color: #007BFF;
+        color: white;
+        transform: translateY(-5px);
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    }
+</style>
+
 
 
 <h2 align="center">🚀 Tools & Technologies</h2> <p align="center"> <img title="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> <img title="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img title="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img title="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> <img title="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> <img title="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img title="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img title="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" /> </p>

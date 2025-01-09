@@ -3,26 +3,18 @@
 
 <h2 align="center" style="font-family: 'Roboto', sans-serif; color: #333; margin-bottom: 30px; font-size: 32px;">🔗 Coding Profiles</h2>
 
-<p align="center" style="font-family: 'Roboto', sans-serif; font-size: 20px; color: #555;">
-    <a href="https://leetcode.com/arnob69/" title="LeetCode" style="text-decoration: none; margin: 0 25px; padding: 10px 20px; border-radius: 50px; background-color: #f8f9fa; display: inline-flex; align-items: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: all 0.3s ease;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40px" style="margin-right: 12px;">
-        <b style="color: #333;">LeetCode</b>
-    </a> 
-    <a href="https://www.geeksforgeeks.org/user/ararno47m4/" title="GeeksforGeeks" style="text-decoration: none; margin: 0 25px; padding: 10px 20px; border-radius: 50px; background-color: #f8f9fa; display: inline-flex; align-items: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: all 0.3s ease;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40px" style="margin-right: 12px;">
-        <b style="color: #333;">GeeksforGeeks</b>
+<h2 align="center" style="font-family: 'Arial', sans-serif; color: #333; margin-bottom: 20px; font-size: 32px;">🔗 Coding Profiles</h2>
+
+<p align="center" style="font-family: 'Arial', sans-serif; font-size: 18px; color: #555;">
+    <a href="https://leetcode.com/arnob69/" title="LeetCode" style="text-decoration: none; display: inline-block; margin: 0 20px; padding: 12px 20px; border-radius: 30px; background-color: #f4f4f4; color: #333; font-weight: bold; text-align: center; transition: all 0.3s ease; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40px" style="vertical-align: middle; margin-right: 10px;">
+        LeetCode
+    </a>
+    <a href="https://www.geeksforgeeks.org/user/ararno47m4/" title="GeeksforGeeks" style="text-decoration: none; display: inline-block; margin: 0 20px; padding: 12px 20px; border-radius: 30px; background-color: #f4f4f4; color: #333; font-weight: bold; text-align: center; transition: all 0.3s ease; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40px" style="vertical-align: middle; margin-right: 10px;">
+        GeeksforGeeks
     </a>
 </p>
-
-<!-- Add hover effect -->
-<style>
-    a:hover {
-        background-color: #007BFF;
-        color: white;
-        transform: translateY(-5px);
-        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-    }
-</style>
 
 
 

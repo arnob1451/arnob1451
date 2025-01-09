@@ -4,7 +4,6 @@
 
 <p align="center">
 <a href="https://www.leetcode.com/arnob69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arnob" height="45" width="40" /></a>
-
 <a href="https://www.geeksforgeeks.org/user/ararno47m4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arnob" height="45" width="40" /></a>
 </p>
 
